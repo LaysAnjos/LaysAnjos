@@ -2,7 +2,7 @@
 ### Welcome to my profile
 I'm Lays Anjos, currently working teaching development and new technologies.
 
-# Linguagens
+##Linguagens
 <div style="display: inline_block>
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -11,7 +11,7 @@ I'm Lays Anjos, currently working teaching development and new technologies.
         
 </div>
 
-          
+##Contact          
           
 
 
